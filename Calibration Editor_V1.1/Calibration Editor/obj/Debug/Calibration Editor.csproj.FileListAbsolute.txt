@@ -1,0 +1,30 @@
+C:\Users\ctdi\source\repos\Calibration Editor\Calibration Editor\bin\Debug\Calibration Editor.exe.config
+C:\Users\ctdi\source\repos\Calibration Editor\Calibration Editor\bin\Debug\Calibration Editor.exe
+C:\Users\ctdi\source\repos\Calibration Editor\Calibration Editor\bin\Debug\Calibration Editor.pdb
+C:\Users\ctdi\source\repos\Calibration Editor\Calibration Editor\obj\Debug\Calibration Editor.csprojAssemblyReference.cache
+C:\Users\ctdi\source\repos\Calibration Editor\Calibration Editor\obj\Debug\Calibration_Editor.Form1.resources
+C:\Users\ctdi\source\repos\Calibration Editor\Calibration Editor\obj\Debug\Calibration_Editor.Properties.Resources.resources
+C:\Users\ctdi\source\repos\Calibration Editor\Calibration Editor\obj\Debug\Calibration Editor.csproj.GenerateResource.cache
+C:\Users\ctdi\source\repos\Calibration Editor\Calibration Editor\obj\Debug\Calibration Editor.csproj.CoreCompileInputs.cache
+C:\Users\ctdi\source\repos\Calibration Editor\Calibration Editor\obj\Debug\Calibration Editor.exe
+C:\Users\ctdi\source\repos\Calibration Editor\Calibration Editor\obj\Debug\Calibration Editor.pdb
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor\Calibration Editor\bin\Debug\Calibration Editor.exe.config
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor\Calibration Editor\bin\Debug\Calibration Editor.exe
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor\Calibration Editor\bin\Debug\Calibration Editor.pdb
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor\Calibration Editor\obj\Debug\Calibration_Editor.Form1.resources
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor\Calibration Editor\obj\Debug\Calibration_Editor.Properties.Resources.resources
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor\Calibration Editor\obj\Debug\Calibration Editor.csproj.GenerateResource.cache
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor\Calibration Editor\obj\Debug\Calibration Editor.csproj.CoreCompileInputs.cache
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor\Calibration Editor\obj\Debug\Calibration Editor.exe
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor\Calibration Editor\obj\Debug\Calibration Editor.pdb
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor\Calibration Editor\obj\Debug\Calibration Editor.csprojResolveAssemblyReference.cache
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor_V1.1\Calibration Editor\bin\Debug\Calibration Editor.exe.config
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor_V1.1\Calibration Editor\bin\Debug\Calibration Editor.exe
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor_V1.1\Calibration Editor\bin\Debug\Calibration Editor.pdb
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor_V1.1\Calibration Editor\obj\Debug\Calibration Editor.csprojResolveAssemblyReference.cache
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor_V1.1\Calibration Editor\obj\Debug\Calibration_Editor.Form1.resources
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor_V1.1\Calibration Editor\obj\Debug\Calibration_Editor.Properties.Resources.resources
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor_V1.1\Calibration Editor\obj\Debug\Calibration Editor.csproj.GenerateResource.Cache
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor_V1.1\Calibration Editor\obj\Debug\Calibration Editor.csproj.CoreCompileInputs.cache
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor_V1.1\Calibration Editor\obj\Debug\Calibration Editor.exe
+E:\LUKUS PROGRAM\New CalibrationFiles\Calibration Editor_V1.1\Calibration Editor\obj\Debug\Calibration Editor.pdb
